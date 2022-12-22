@@ -3,4 +3,4 @@
 - 📖 The programming languages I know are Java and Python 
 - 🌱 I’m currently learning modern Java GUI design 
 - 💬 Ask me about any potential project collaborations 
-- 📫 How to reach me: Add me on Discord: DrPraeclarum#8474
+- 📫 Add me on Discord: DrPraeclarum#8474
